@@ -15,5 +15,12 @@
         android:text="計數器"
         android:textSize="30sp"
        />
+    <Button
+        android:id="@+id/btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="happy"
+        android:text="樂透"
+        android:textSize="30sp"/>
 
 </LinearLayout>
